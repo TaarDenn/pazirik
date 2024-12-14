@@ -1,13 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "vazir";
+    src: url("../public/Vazirmatn-VariableFont_wght.ttf");
+  }
+  @font-face {
+    font-family: "markazi";
+    src: url("../public/MarkaziText-VariableFont_wght.ttf");
+  }
+  @font-face {
+    font-family: "anjoman-title";
+    src: url("../public/Anjoman-SemiBold.ttf");
+  }
+}
+/** 46 66 43*/
+.vazir {
+  font-family: vazir;
+}
+.anjoman-title {
+  font-family: anjoman-title;
+}
+.markazi {
+  font-family: markazi;
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.mrp {
+  margin-right: var(--progress);
+}
+
+.mlp {
+  margin-left: var(--progress);
 }
