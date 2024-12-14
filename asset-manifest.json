@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pazirik/static/css/main.09ef909b.css",
-    "main.js": "/pazirik/static/js/main.9c2ca4fd.js",
+    "main.js": "/pazirik/static/js/main.b2eee1da.js",
     "static/media/MarkaziText-VariableFont_wght.ttf": "/pazirik/static/media/MarkaziText-VariableFont_wght.526f74ab0f94c23b4047.ttf",
     "static/media/Vazirmatn-VariableFont_wght.ttf": "/pazirik/static/media/Vazirmatn-VariableFont_wght.6bc27351053f4a6168c1.ttf",
     "static/media/Anjoman-SemiBold.ttf": "/pazirik/static/media/Anjoman-SemiBold.d43cd365ed429dd330ec.ttf",
@@ -15,10 +15,10 @@
     "static/media/2.svg": "/pazirik/static/media/2.6ab53a0e21a74e4d67ee0ed94549ed75.svg",
     "index.html": "/pazirik/index.html",
     "main.09ef909b.css.map": "/pazirik/static/css/main.09ef909b.css.map",
-    "main.9c2ca4fd.js.map": "/pazirik/static/js/main.9c2ca4fd.js.map"
+    "main.b2eee1da.js.map": "/pazirik/static/js/main.b2eee1da.js.map"
   },
   "entrypoints": [
     "static/css/main.09ef909b.css",
-    "static/js/main.9c2ca4fd.js"
+    "static/js/main.b2eee1da.js"
   ]
 }
