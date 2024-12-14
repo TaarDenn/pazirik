@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.7d2a2069.css",
-    "main.js": "./static/js/main.ed2252f6.js",
-    "static/media/MarkaziText-VariableFont_wght.ttf": "./static/media/MarkaziText-VariableFont_wght.526f74ab0f94c23b4047.ttf",
-    "static/media/Vazirmatn-VariableFont_wght.ttf": "./static/media/Vazirmatn-VariableFont_wght.6bc27351053f4a6168c1.ttf",
-    "static/media/Anjoman-SemiBold.ttf": "./static/media/Anjoman-SemiBold.d43cd365ed429dd330ec.ttf",
-    "static/media/coffee-bg.jpg": "./static/media/coffee-bg.155b84a5458236940fbb.jpg",
-    "static/media/logo-white.png": "./static/media/logo-white.0b2b40190e7e1cb728a1.png",
-    "static/media/1.svg": "./static/media/1.566823ec4c1ccfd5ba6ac95eb30e634f.svg",
-    "static/media/0.svg": "./static/media/0.73e2e691068e6ed0a71552a4d66d0998.svg",
-    "static/media/3.svg": "./static/media/3.d087fdeb7b6881ecb5db50ba710df2be.svg",
-    "static/media/4.svg": "./static/media/4.dba3d78dd0c2ecd06e8ea4ab2421c107.svg",
-    "static/media/5.svg": "./static/media/5.a410cde45d78862448f1aa3c36bf9409.svg",
-    "static/media/2.svg": "./static/media/2.6ab53a0e21a74e4d67ee0ed94549ed75.svg",
-    "index.html": "./index.html",
-    "main.7d2a2069.css.map": "./static/css/main.7d2a2069.css.map",
-    "main.ed2252f6.js.map": "./static/js/main.ed2252f6.js.map"
+    "main.css": "/pazirik/static/css/main.09ef909b.css",
+    "main.js": "/pazirik/static/js/main.9c2ca4fd.js",
+    "static/media/MarkaziText-VariableFont_wght.ttf": "/pazirik/static/media/MarkaziText-VariableFont_wght.526f74ab0f94c23b4047.ttf",
+    "static/media/Vazirmatn-VariableFont_wght.ttf": "/pazirik/static/media/Vazirmatn-VariableFont_wght.6bc27351053f4a6168c1.ttf",
+    "static/media/Anjoman-SemiBold.ttf": "/pazirik/static/media/Anjoman-SemiBold.d43cd365ed429dd330ec.ttf",
+    "static/media/coffee-bg.jpg": "/pazirik/static/media/coffee-bg.155b84a5458236940fbb.jpg",
+    "static/media/logo-white.png": "/pazirik/static/media/logo-white.0b2b40190e7e1cb728a1.png",
+    "static/media/1.svg": "/pazirik/static/media/1.566823ec4c1ccfd5ba6ac95eb30e634f.svg",
+    "static/media/0.svg": "/pazirik/static/media/0.73e2e691068e6ed0a71552a4d66d0998.svg",
+    "static/media/3.svg": "/pazirik/static/media/3.d087fdeb7b6881ecb5db50ba710df2be.svg",
+    "static/media/4.svg": "/pazirik/static/media/4.dba3d78dd0c2ecd06e8ea4ab2421c107.svg",
+    "static/media/5.svg": "/pazirik/static/media/5.a410cde45d78862448f1aa3c36bf9409.svg",
+    "static/media/2.svg": "/pazirik/static/media/2.6ab53a0e21a74e4d67ee0ed94549ed75.svg",
+    "index.html": "/pazirik/index.html",
+    "main.09ef909b.css.map": "/pazirik/static/css/main.09ef909b.css.map",
+    "main.9c2ca4fd.js.map": "/pazirik/static/js/main.9c2ca4fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d2a2069.css",
-    "static/js/main.ed2252f6.js"
+    "static/css/main.09ef909b.css",
+    "static/js/main.9c2ca4fd.js"
   ]
 }
